@@ -16,9 +16,9 @@ This MATLAB script reproduces **Figure 28** from the paper:
 
 ---
 
-## 📷 Demo
+## Demo
 
-![Demo GIF](docs/demo.gif)
+![Demo GIF](docs/AnimatedTruss.gif)
 
 ---
 
