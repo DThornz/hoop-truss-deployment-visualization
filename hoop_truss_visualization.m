@@ -148,6 +148,4 @@ for idx = 1:length(phi_vals)
              'BackgroundColor', 'w', 'Margin', 3, 'EdgeColor', 'k');
         drawnow;
     end
-
-    exportgraphics(gca,"AnimatedTruss.gif","Append",true)
 end
