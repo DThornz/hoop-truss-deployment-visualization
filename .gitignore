@@ -1,0 +1,5 @@
+*.asv
+*.log
+*.fig
+.DS_Store
+Thumbs.db
