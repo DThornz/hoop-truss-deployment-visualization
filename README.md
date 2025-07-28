@@ -17,7 +17,7 @@ This MATLAB script reproduces **Figure 28** from the paper:
 ---
 
 ## Demo
-
+<img src="docs/Three_States.png" />
 <img src="docs/AnimatedTruss.gif" width="400" />
 
 ---
