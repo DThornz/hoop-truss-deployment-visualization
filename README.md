@@ -18,7 +18,7 @@ This MATLAB script reproduces **Figure 28** from the paper:
 
 ## Demo
 
-![Demo GIF](docs/AnimatedTruss.gif)
+<img src="docs/AnimatedTruss.gif" width="400" />
 
 ---
 
