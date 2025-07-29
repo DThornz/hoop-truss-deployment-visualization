@@ -55,6 +55,10 @@ This MATLAB script reproduces **Figure 28** from the paper:
     mode = "static";    % or "animation"
 3. Run the script.
 
+OR
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DThornz/hoop-truss-deployment-visualization&file=README.md)
+
 ### 4. Contributions
 
 Feel free to submit issues or pull requests for improvements or extensions.
